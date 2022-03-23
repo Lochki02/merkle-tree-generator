@@ -27,9 +27,8 @@ node getProofs.js
 
 👤 **Lochki#5006**
 
-* Github: [@Paraxite](https://github.com/Lochki02)
-* Linktree: [Paraxite](https://linktr.ee/lochki)
-* Paypal (if this tool was useful ❤️): [Granjalf](https://paypal.me/granjalf)
+* Github: [@Lochki02](https://github.com/Lochki02)
+* Linktree: [Lochki](https://linktr.ee/lochki)
 
 ## Show your support
 
